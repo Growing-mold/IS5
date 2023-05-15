@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Up/dlm8kQT4/EOlSkVBFVJpoePK7Nw2JW6Kors5170lcLdBeqclAKnu83Odj2qJJI2Vp2/MJ9hbUeM+Ngo7DnA==",
+  "dgSpecHash": "9np/Da7ftuvKDGblWmjrFj4ceZkbK+pHzvXTpHmMfAoc70e1VFCLJfSuL2or3u8+JkLfzL/nGfQpDxDRz8C6SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nkrts\\source\\repos\\calculate\\calculate\\calculate.csproj",
+  "projectFilePath": "C:\\Users\\nkrts\\Desktop\\учеба22-23\\ЛР5\\IS5\\calculate\\calculate\\calculate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nkrts\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
