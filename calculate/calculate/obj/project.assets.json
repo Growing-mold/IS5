@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nkrts\\source\\repos\\calculate\\calculate\\calculate.csproj",
+      "projectUniqueName": "C:\\Users\\nkrts\\Desktop\\учеба22-23\\ЛР5\\IS5\\calculate\\calculate\\calculate.csproj",
       "projectName": "calculate",
-      "projectPath": "C:\\Users\\nkrts\\source\\repos\\calculate\\calculate\\calculate.csproj",
+      "projectPath": "C:\\Users\\nkrts\\Desktop\\учеба22-23\\ЛР5\\IS5\\calculate\\calculate\\calculate.csproj",
       "packagesPath": "C:\\Users\\nkrts\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nkrts\\source\\repos\\calculate\\calculate\\obj\\",
+      "outputPath": "C:\\Users\\nkrts\\Desktop\\учеба22-23\\ЛР5\\IS5\\calculate\\calculate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
